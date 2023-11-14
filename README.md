@@ -40,9 +40,9 @@ flutter run
 
 ## Contributing
 
-Contributions to this project are welcome and encouraged! To contribute, please fork the repository and submit a pull request. Please make sure to read the [Contributing Guide](https://github.com/charles9904/Messenger_X/blob/main/CONTRIBUTING.md) before making a pull request.
+Contributions to this project are welcome and encouraged! To contribute, please fork the repository and submit a pull request. Please make sure to read the [Contributing Guide](https://github.com/iuxcode/Messenger_X/blob/main/CONTRIBUTING.md) before making a pull request.
 
-What needs to be done: please check the [ROADMAP](https://github.com/charles9904/Messenger_X/blob/main/ROADMAP.md).
+What needs to be done: please check the [ROADMAP](https://github.com/iuxcode/Messenger_X/blob/main/ROADMAP.md).
 
 ## :page_with_curl: License
 
