@@ -1,16 +1,49 @@
-# messenger_x
+# Messenger X | Flutter Telegram Clone Workshop
 
-A new Flutter project.
+Welcome to the Flutter Telegram Clone Workshop! 🚀 In this hands-on learning experience, you'll delve into the power of Flutter as we embark on a journey to recreate the renowned Telegram messaging app. Whether you're a Flutter enthusiast or a coding novice, this workshop is designed to sharpen your mobile app development skills and provide you with the tools to build your very own real-time messaging platform.
+
+## What to Expect 🚀✨
+
+* Flutter Exploration: Discover the versatility of Flutter and its application in creating dynamic and responsive user interfaces.
+
+* Project-Based Learning: Dive into practical, project-based learning by actively participating in the development of a Telegram-like messaging app.
+
+* Collaboration and Learning: Engage with fellow participants, share insights, and elevate your Flutter proficiency through collaborative coding.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+These instructions will help you set up and run the project on your local machine.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Make sure you have Flutter and Dart installed. For installation instructions, visit [**Flutter Installation Guide.**](https://docs.flutter.dev/get-started/install)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the Repo
+
+```bash
+git clone https://github.com/iuxcode/Messenger_X.git
+```
+
+2. Navigate to the project directory and install dependencies
+
+```bash
+flutter pub get
+```
+
+3. Running the App
+
+```bash
+flutter run
+```
+
+## Contributing
+
+Contributions to this project are welcome and encouraged! To contribute, please fork the repository and submit a pull request. Please make sure to read the [Contributing Guide](https://github.com/charles9904/Messenger_X/blob/main/CONTRIBUTING.md) before making a pull request.
+
+What needs to be done: please check the [ROADMAP](https://github.com/charles9904/Messenger_X/blob/main/ROADMAP.md).
+
+## :page_with_curl: License
+
+Messenger_X is licensed under the MIT License.
