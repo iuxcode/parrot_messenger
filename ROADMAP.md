@@ -8,14 +8,14 @@
    - [ ] Create a basic project structure.
 
 2. **Navigation Setup:**
-   - [ ] Implement basic navigation between screens.
+   - [ ] Implement basic navigation between screens. (Setup routing)
    - [ ] Create navigation routes for different sections of the app.
 
 ## Phase 2: Real-Time Messaging
 
 3. **Real-Time Messaging:**
    - [ ] Set up real-time messaging using [**Telegram Database Library**](https://github.com/tdlib/td).
-   - [ ] Implement basic message sending and receiving functionality.
+   - [ ] Implement basic event sending and receiving functionality.
 
 4. **Basic UI Structure:**
    - [ ] Set up the initial user interface with key components (e.g., chat list, message input).
