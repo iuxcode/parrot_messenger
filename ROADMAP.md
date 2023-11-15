@@ -26,6 +26,7 @@
 6. **Chat Features:**
    - [ ] Enhance chat features, such as message timestamps and user avatars.
    - [ ] Implement basic emoji support and message reactions.
+   - [ ] Implement additional features: voice messages, group chats, stories, etc...
 
 ## Phase 3: Advanced Features and Platform Adaptation
 
@@ -66,7 +67,7 @@
 ## Phase 7: Future Enhancements
 
 14. **Feature Enhancements:**
-    - [ ] Explore additional features (voice messages, group chats, AI) for future iterations.
+    - [ ] Explore additional features (AI for example) for future iterations.
     - [ ] Collect user feedback and prioritize feature requests.
 
 15. **Continuous Improvement:**
